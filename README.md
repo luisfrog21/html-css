@@ -1,2 +1,4 @@
-# Html Css
- Descrição fácil de vários tópicos sobre HTML e CSS.
+# Html e Css
+ Descrição fácil e detalhada de vários tópicos sobre HTML e CSS.
+ 
+ Repositório em andamento.
