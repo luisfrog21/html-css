@@ -7,6 +7,6 @@
 
  <ul>
  <li><a href="www.youtube.com/cursoemvideo" target="_blank">Canal do Curso em Vídeo</a></li>
- <li><a href="www.instagram.com/gustavoguanabara" target="_blank">Perfil do Instagram de Gustavo Guanabara</a></li>
+ <li><a href="https://www.instagram.com/gustavoguanabara/" target="_blank">Perfil do Instagram de Gustavo Guanabara</a></li>
  <li><a href="www.instagram.com/cursoemvideo" target="_blank">Perfil do Instagram do Curso em vídeo</a></li>
  </ul>
