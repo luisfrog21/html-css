@@ -1,7 +1,9 @@
 # Html5 e Css3
  Descrição fácil e detalhada de vários tópicos sobre HTML5 e CSS3.
 
- <img src="https://blog.4linux.com.br/wp-content/uploads/2018/03/Melhor-Curso-de-HTML5-e-CSS3.png" width="400" style="border:5px solid black"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="400"/>
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="400"/>
  
  Repositório em andamento.
 
