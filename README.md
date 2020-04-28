@@ -7,6 +7,4 @@
  
  <p>Repositório em andamento.</p>
 
- <p style="text-align: justify">Este repositório e outros que venham a ser criados são obra das aulas do [Professor Gustavo Guanabara](https://www.youtube.com/cursoemvideo), com o seu curso de Git-GitHub, HTML-CSS, entre outros...</p>
-
-eset [wjqf](https://www.youtube.com/cursoemvideo)
+ Este repositório e outros que venham a ser criados são obra das aulas do [Professor Gustavo Guanabara](https://www.youtube.com/cursoemvideo), com o seu curso de Git-GitHub, HTML-CSS, entre outros...
