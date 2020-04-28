@@ -1,9 +1,9 @@
 # Html5 e Css3
  <p align="center"><strong>Descrição fácil e detalhada de vários tópicos sobre HTML5 e CSS3.</strong></p>
 
- <img src="html5.png" align="left"/>
+ <img src="html5.png" width="200" align="left"/>
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="200" align="right" style="margin: 20px"/>
+ <img src="css3.png" width="200" align="right"/>
  
  <p>Repositório em andamento.</p>
 
