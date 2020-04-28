@@ -1,5 +1,5 @@
 # Html5 e Css3
- <p align="center"><strong>Descrição fácil e detalhada de vários tópicos sobre HTML5 e CSS3.</strong></p>
+## Descrição fácil e detalhada de vários tópicos sobre HTML5 e CSS3.
 
  <img src="html5.png" width="200" align="left" style="margin-right: 50px; margin-bottom: 50px"/>
 
