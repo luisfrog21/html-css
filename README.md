@@ -7,7 +7,7 @@
  
  <p>Repositório em andamento.</p>
 
- <p>Este repositório e outros que venham a ser criados são obra das aulas do Professor Gustavo Guanabara, com o seu curso de Git-GitHub, HTML-CSS, entre outros...</p>
+ <p style="text-align: justify">Este repositório e outros que venham a ser criados são obra das aulas do Professor Gustavo Guanabara, com o seu curso de Git-GitHub, HTML-CSS, entre outros...</p>
 
  <ul>
  <li><a href="https://www.youtube.com/cursoemvideo">Canal do Curso em Vídeo</a></li>
